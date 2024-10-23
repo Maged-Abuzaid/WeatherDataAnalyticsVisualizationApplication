@@ -26,7 +26,7 @@ This project is an **interactive weather dashboard** that allows users to fetch 
 
 ```bash
 git clone https://github.com/Maged-Abuzaid/weather_dashboard_project.git
-cd weather-dashboard
+cd weather_dashboard_project
 ```
 
 ### 2. Install Dependencies
